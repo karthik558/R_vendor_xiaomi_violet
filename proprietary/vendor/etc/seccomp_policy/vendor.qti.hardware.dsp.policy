@@ -61,4 +61,3 @@ gettid: 1
 setpriority: 1
 prctl: 1
 write: 1
-madvise: 1
